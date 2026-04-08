@@ -1,0 +1,12 @@
+streamlit
+pandas
+requests
+chembl_webresource_client
+rdkit
+py3Dmol
+stmol
+biopython
+matplotlib
+numpy
+ipython
+ipywidgets
